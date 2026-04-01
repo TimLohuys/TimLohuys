@@ -52,7 +52,7 @@ Location: NL
 
 ### 🗄️ Databases & Infra
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,nginx,grafana" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,nginx,grafana" />
 </p>
 
 ### 🐳 DevOps & Systems
