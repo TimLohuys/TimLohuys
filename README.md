@@ -19,15 +19,60 @@ Location: NL
 
 ```
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Magento+2;Full+Stack+Architect;Reverse+Engineering;Performance+Obsessed;Low-Level+%2B+High-Level" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Magento+2+Expert;Full+Stack+Architect;Reverse+Engineering;Performance+Obsessed;Low-Level+%2B+High-Level" /> </p>
 <!-- ⚡ DASHBOARD -->
 ⚡ SYSTEM DASHBOARD
 <p align="center"> <img src="https://img.shields.io/badge/ARCHITECTURE-ELITE-00F7FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/PERFORMANCE-OBSESSED-00F7FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/CODE-CLEAN-00F7FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/REVERSE_ENGINEERING-ACTIVE-00F7FF?style=for-the-badge"/> </p>
 <!-- 🧠 TERMINAL SKILLS -->
 
-<!-- 🛠️ STACK -->
-🛠️ TECH STACK
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,php,cs,cpp,lua,docker,linux,nginx,postgres,mysql,redis,git" /> </p>
+<!-- 🛠️ TECH STACK -->
+## 🛠️ TECH STACK
+
+### ⚡ Core Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,ts,cpp,cs,lua" />
+</p>
+
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,less,jquery" />
+</p>
+
+### ⚙️ Backend & Runtime
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,npm" />
+</p>
+
+### 🧩 CMS & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
+
+### 🗄️ Databases & Infra
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,nginx,grafana" />
+</p>
+
+### 🐳 DevOps & Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,debian,raspberrypi" />
+</p>
+
+---
+
+## 🛠️ DEV TOOLS
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,bitbucket" />
+</p>
+
+---
+
+### 💻 ENVIRONMENT
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=phpstorm,windows,linux,docker" />
+</p>
 
 ```bash
 > skills:`
