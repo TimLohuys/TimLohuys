@@ -26,9 +26,7 @@
 <!-- 🧠 TERMINAL SKILLS -->
 
 ---
-
 <h2 align="center">🚀 TECH STACK & ECOSYSTEM</h2>
-
 ---
 
 <h3 align="center">⚡ Core & Low-Level Development</h3>
@@ -52,7 +50,6 @@
 </p>
 
 <h2 align="center">🛠️ PROFESSIONAL CORE</h2>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,bitbucket" />
 </p>
@@ -60,7 +57,6 @@
 ---
 
 <h2 align="center">💻 ENVIRONMENT</h2>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=phpstorm,windows,linux,docker" />
 </p>
