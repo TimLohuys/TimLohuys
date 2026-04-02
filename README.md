@@ -10,7 +10,7 @@
 
 > loading identity...
 Name: Tim Lohuys
-Role: Senior Software Engineer / Architect
+Role: Full-Stack Developer
 Status: ACTIVE
 Location: NL
 
@@ -82,7 +82,7 @@ Location: NL
 [✔] Architect scalable backend infrastructures
 [✔] Push performance beyond standard limits
 [✔] Optimize SEO + Core Web Vitals aggressively
-[✔] Reverse engineer systems and improve them
+[✔] Reverse engineer systems
 [✔] Operate across low-level and high-level stacks
 ```
 
